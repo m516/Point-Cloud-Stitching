@@ -1,3 +1,11 @@
+data/
+bin/
+out/
+.*/
+
+
+
+
 CMakeCache.txt
 CMakeFiles
 CMakeScripts
